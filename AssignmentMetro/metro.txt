@@ -1,0 +1,15 @@
+Haciosman:350:50:Sariyer
+Darussafaka:275:100:Emirgan:Istinye
+Ataturk:211:150:
+ITU:211:200:MEF:Maslak
+Sanayi:211:250:Seyrantepe
+4. Levent:211:300:Yeni Levent:Akatlar
+Levent:211:350:Bebek:Ulus
+Gayrettepe:211:400:Zorlu Center:Mecidiyekoy
+Sisli:211:450:Mecidiyekoy:Nisantasi:Tesvikiye
+Osmanbey:211:500:Bomonti:Nisantasi:Harbiye
+Taksim:211:550:Cihangir:Beyoglu:Karakoy:Tophane
+Sishane:211:600:Tophane:Galata:Tunel:Asmali Mescit
+Halic:211:650:Eminonu:Balat:Sirkeci
+Vezneciler:211:700:Ayasofya:Sultanahmet:Kapali Carsi:Eminonu:Vefa
+Yenikapi:161:750:Aksaray:Topkapi
